@@ -1,1 +1,4 @@
 # agile_practice
+[The Dance of Software Methodologies](https://medium.com/@AlwaysAyesha/the-dance-of-software-development-methodologies-a4d3b7c1675)
+
+## This article relates varying software development methodologies to dance. More specifically, the extended metaphor relates the Waterfall method to the Waltz, due to the repititve '1,2,3' pattern of the dance, while Agile relates to breakdancing's jerking and freezing. I love this comparison, it's very interesting that the writer could relate an artform to very scientific, methodological practices. It's fascinating how the writer contrasted the different types of methodologies with complete opposite dance forms, yet explained that they all want to reach the same goal, build a succesful product, or in this case, create an entertaining piece of art. 
